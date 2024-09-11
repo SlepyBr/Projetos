@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+.Branco{
+    color: white;
+}
+.Aqua{
+    color: aqua;
+}
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+ul {
+    margin: 0px;
+    padding: 0;
+}
+
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+a:hover {
+    color: #f8b90c;
+}
+.bebas{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.imghome{
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    margin-right: 100px;
+    border-radius: 10%;
+    border: 2px solid white;
+}
+.imgSemafaro{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 100px;
+    border-radius: 10%;
+    border: 2px solid white;
+}
